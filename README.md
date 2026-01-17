@@ -1,5 +1,9 @@
+# Task 7: Create a Portfolio Webpage
 
-# Task 16:Datasheets report writing
+For this task, I have created a **portfolio webpage** using **HTML**. The purpose of the webpage is to showcase my profile, interests, projects, and social media profiles in a clean and professional manner. 
+
+<img width="1889" height="909" alt="portfoliophoto pngfile" src="https://github.com/user-attachments/assets/2bf1b6ac-5c68-4f29-9b08-d11f3a78ccdc" />
+
 
 
 ## Introduction
