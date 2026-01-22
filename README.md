@@ -4,8 +4,6 @@ For this task, I have created a **portfolio webpage** using **HTML**. The purpos
 
 <img width="1889" height="909" alt="portfoliophoto pngfile" src="https://github.com/user-attachments/assets/2bf1b6ac-5c68-4f29-9b08-d11f3a78ccdc" />
 
-
-
 ## Task 12: Soldering Prerequisites
 
 I studied the soldering equipment available in the laboratory, including the soldering iron, solder wire, flux, and soldering wick, and learned their functions.  
@@ -16,12 +14,24 @@ This experiment helped me understand proper handling and usage of soldering tool
 
 <img src="https://github.com/user-attachments/assets/64929fa2-045c-4eaa-b4eb-319e4bdf02d5" width="400"/> 
 
+## Burglar Alarm Logic Design Using Karnaugh Map
+
+For this task, I analyzed the four possible combinations of door status and key input to design a simple burglar alarm using logic gates. The input variables are **Door (D)** and **Key (K)**. The alarm output is **1** when the door is open **and** the key is **not pressed**; otherwise the alarm remains **0**. I referred to a sample task on designing a burglar alarm using combinational logic and a truth table to understand the cases and circuit implementation. 0
+
+I used a **truth table** to list all combinations of D and K, and then transferred them into a **Karnaugh Map (K‑Map)** to simplify the Boolean expression. A Karnaugh Map helps to visually group 1s from the truth table to get a simplified sum‑of‑products (SOP) logic expression, reducing the number of logic gates needed. 1
+
+By filling the K‑Map based on the required output conditions and grouping the adjacent high (1) cells, I derived the simplified expression for the alarm output. I then implemented this using basic logic gates such as AND and NOT. A Karnaugh Map is an effective method to minimize Boolean expressions in digital circuit design. 2
+
+### References
+- Burglar alarm logic design and truth table example: https://hub.uvcemarvel.in/article/69bf16aa-13fb-47c1-a5ac-e5a6912a3f68 3  
+- Description and purpose of Karnaugh Maps: https://en.wikipedia.org/wiki/Karnaugh_map 4  
+- How to use Karnaugh Maps for minimization: https://www.geeksforgeeks.org/digital-logic/introduction-of-k-map-karnaugh-map/ 5
+
 # Task 16:Data sheet report writing
 
 ## Introduction
 
 The **L293D** is a dual H-bridge motor driver IC commonly used to control **the direction and speed of DC motors**. It allows a microcontroller or logic circuit to drive motors that require higher current than the controller can supply. The IC contains **two full H-bridge circuits**, enabling **independent bidirectional control of two DC motors**.
-
 
 ## IC Configuration
 
