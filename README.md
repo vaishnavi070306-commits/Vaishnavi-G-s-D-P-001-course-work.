@@ -24,7 +24,8 @@ For this task, I have created a **portfolio webpage** using **HTML**. The purpos
 
 In this task, a Tinkercad account was used to explore the simulation environment and example circuits. A circuit with an ultrasonic sensor was simulated to measure the distance between the sensor and an object, and the results were displayed on the serial monitor. The ultrasonic sensor works by sending sound waves and calculating the time taken for the echo to return. A basic radar system was also implemented by attaching a servo motor to the sensor, allowing it to rotate and detect objects over a wider area. This experiment helped in understanding distance measurement, servo control, and how these can be combined for object detection. 
 
-[tinkercard3.pdf](https://github.com/user-attachments/files/24837640/tinkercard3.pdf)
+![tinkercard3.pdf](https://github.com/user-attachments/files/24837665/tinkercard3.pdf)
+
 
 [tinkercad](https://www.tinkercad.com/things/49RVmJZ56W4/editel).
 
@@ -124,7 +125,7 @@ An H-bridge is a circuit that allows a motor to be driven **forward or backward*
 - Educational experiments for motor interfacing  
 - Small electric vehicles or conveyor systems
 
-  # TASK 17:Introduction to VR
+# TASK 17:Introduction to VR
 
 ## What is Virtual Reality?
 
