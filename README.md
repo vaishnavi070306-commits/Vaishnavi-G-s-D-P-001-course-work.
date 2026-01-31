@@ -23,9 +23,10 @@ In this task, I identified and fixed a small bug in an existing GitHub repositor
 # Task 4: Ubuntu Command Line Practice
 
 In this task, I practiced creating multiple directories in Ubuntu. I used loops to generate a large number of folders automatically, which helped me understand how repetitive tasks can be automated and reinforced basic command-line operations for managing and organizing directories efficiently.
-![WhatsApp Image 2026-01-31 at 8 43 20 PM](https://github.com/user-attachments/assets/61302781-042d-4066-a8f0-ccae9b37b439)
+![WhatsApp Image 2026-01-31 at 8 50 15 PM](https://github.com/user-attachments/assets/995a7650-5865-43f7-a3b7-1976620f73cb)
+![WhatsApp Image 2026-01-31 at 8 50 16 PM](https://github.com/user-attachments/assets/b98a20ad-56c9-4929-9618-8701af8a67b6)
 
-![WhatsApp Image 2026-01-31 at 8 43 20 PM (1)](https://github.com/user-attachments/assets/4f270cc6-5fbb-423f-a8a2-8a77b122d2fe)
+
 
 Another part of the task involved working with text files. I created two files and used the command line to combine and display their contents in the terminal. This exercise helped me get familiar with basic file manipulation and how commands can be used to work with text without relying on a graphical interface.
 
@@ -58,17 +59,17 @@ In this task, a Tinkercad account was used to explore the simulation environment
 <img src="https://github.com/user-attachments/assets/ee988e03-9436-457f-bcb6-eee59867ea0c" width="800"/>
 
 
-[tinkercad](https://www.tinkercad.com/things/49RVmJZ56W4/editel).
+[tinkercad](https://www.tinkercad.com/things/49RVmJZ56W4/editel)
 
 # Task 10: Speed control of DC motor
 
 A 5V DC motor was controlled using an Arduino UNO and an L298N motor driver to explore basic techniques of motor speed and direction control. The motor speed was varied using PWM signals, and the direction was adjusted through the H-Bridge connections. This experiment provided practical experience in connecting the hardware, configuring the motor driver, and using Arduino programming to control motor behavior effectively. The process helped in understanding the application of PWM and H-Bridge circuits in real-world motor control systems.
 
-<img src="https://github.com/user-attachments/assets/4b69214b-91f5-4746-856c-899ac45919bf" width="800"/>
+<img src="https://github.com/user-attachments/assets/4b69214b-91f5-4746-856c-899ac45919bf" width="500"/>
 
 The results showed that the motor responded smoothly to changes in PWM signals, allowing precise control over its speed. Forward and reverse motion was achieved reliably by switching the H-Bridge input pins, and the motor maintained stable operation across different speed settings. Recording the experiment confirmed that the setup worked as intended and demonstrated the practical effectiveness of using Arduino and L298N driver for DC motor control.
 
-https://github.com/user-attachments/assets/6ee82cbf-0ec9-4ff7-8195-8dd657b52d8b
+<img src="https://github.com/user-attachments/assets/6ee82cbf-0ec9-4ff7-8195-8dd657b52d8b" width="450">
 
 
 
@@ -84,14 +85,17 @@ This experiment helped me understand proper handling and usage of soldering tool
 
 # Task 14: Karnaugh Maps and Deriving The Logic Gate
 
-In this task, I designed a simple burglar alarm using two inputs: **Door (D)** and **Key (K)**. The alarm turns ON only when the door is open and the key is not pressed. I created a **truth table** for all four cases, 
-![1000094610](https://github.com/user-attachments/assets/b356f3ff-4c3a-42a0-97ce-97bd0c130d8b)
+In this task, I designed a simple burglar alarm using two inputs: **Door (D)** and **Key (K)**. The alarm turns ON only when the door is open and the key is not pressed. I created a **truth table** for all four cases
+
+<img src="https://github.com/user-attachments/assets/b356f3ff-4c3a-42a0-97ce-97bd0c130d8b" width="450">
 
 then used a **Karnaugh Map (K-Map)** to simplify the logic. The resulting Boolean expression is **A = D · K̅**  
-![1000094612](https://github.com/user-attachments/assets/e8c97410-9c76-4f32-9937-f83dfcdd6240)
+
+<img src="https://github.com/user-attachments/assets/e8c97410-9c76-4f32-9937-f83dfcdd6240" width="450">
 
 I implemented it using a **NOT gate** for the key input and an **AND gate** to drive the buzzer or LED. This exercise helped me understand how K-Maps simplify logic for practical circuits.
-![1000094614](https://github.com/user-attachments/assets/f940d1e7-a827-4ee6-abd0-d37a9db14d7a)
+
+<img src="https://github.com/user-attachments/assets/f940d1e7-a827-4ee6-abd0-d37a9db14d7a" width="450">
 
 
 # Task 16: Data sheet report writing
@@ -195,7 +199,7 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 
 ## Difference Between Virtual Reality (VR) and Augmented Reality (AR)
 
-![WhatsApp Image 2026-01-18 at 11 54 25 AM](https://github.com/user-attachments/assets/cbe751db-f4ef-47e9-909d-bdaa2d8b58c6)
+<img src="https://github.com/user-attachments/assets/cbe751db-f4ef-47e9-909d-bdaa2d8b58c6" width="450">
 
 | Feature | Virtual Reality (VR) | Augmented Reality (AR) |
 |------|---------------------|------------------------|
