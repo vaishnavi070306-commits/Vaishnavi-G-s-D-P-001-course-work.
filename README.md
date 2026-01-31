@@ -8,7 +8,7 @@
 
 For this task, I built a small web app that shows real-time weather for any city using the OpenWeather API. I made it so I can type a city name and click a button to see the temperature, weather conditions, humidity, and wind speed. I also added a feature to refresh the data automatically every five minutes so it stays updated. While working on this, I got hands-on experience with fetching data from an API using JavaScript and displaying it on a webpage. It was interesting to see how quickly I could make the app respond to user input and show live information.  
 
-<img src="https://github.com/user-attachments/assets/28a5bd4c-5bd1-462b-b52f-19bdcb0e2682" width="1000"/>
+<img src="https://github.com/user-attachments/assets/28a5bd4c-5bd1-462b-b52f-19bdcb0e2682" width="900"/>
 
  [GitHub repository](https://github.com/vaishnavi070306-commits/wesatherapp)
 
@@ -69,7 +69,11 @@ A 5V DC motor was controlled using an Arduino UNO and an L298N motor driver to e
 
 The results showed that the motor responded smoothly to changes in PWM signals, allowing precise control over its speed. Forward and reverse motion was achieved reliably by switching the H-Bridge input pins, and the motor maintained stable operation across different speed settings. Recording the experiment confirmed that the setup worked as intended and demonstrated the practical effectiveness of using Arduino and L298N driver for DC motor control.
 
-![Screenshot](https://github.com/user-attachments/assets/6ee82cbf-0ec9-4ff7-8195-8dd657b52d8b)
+
+
+https://github.com/user-attachments/assets/027620da-2066-4655-9518-beb70d508167
+
+
 
 
 
@@ -100,14 +104,11 @@ I implemented it using a **NOT gate** for the key input and an **AND gate** to d
 
 # Task 16: Data sheet report writing
 
-## Introduction
-
 The **L293D** is a dual H-bridge motor driver IC commonly used to control **the direction and speed of DC motors**. It allows a microcontroller or logic circuit to drive motors that require higher current than the controller can supply. The IC contains **two full H-bridge circuits**, enabling **independent bidirectional control of two DC motors**.
 
 ## IC Configuration
 
 ![WhatsApp Image 2026-01-17 at 7 00 02 PM](https://github.com/user-attachments/assets/99f52530-2052-4e44-b53a-e1e59bf16c9e)
-
 
 - **Package:** 16-pin Dual In-Line Package (DIP)  
 - **Logic Supply (VSS):** 5 V, powers the internal control circuitry  
@@ -146,13 +147,11 @@ The **L293D** is a dual H-bridge motor driver IC commonly used to control **the 
 
 ![WhatsApp Image 2026-01-17 at 7 02 57 PM](https://github.com/user-attachments/assets/b7f9cd53-8d5d-46d2-8d97-a15ee49315a0)
 
-
 An H-bridge is a circuit that allows a motor to be driven **forward or backward**. In the L293D:
 
 - Input pins control the direction of current through the motor.  
 - Enable pins turn the H-bridge on or off, and PWM signals applied to these pins allow **speed control**.  
 - The internal Darlington pairs increase the current capability of the IC, enabling it to safely drive motors up to **600 mA continuously** and up to **1.2 A peak** per channel.
-
 
 ## PWM Speed Control
 
@@ -191,7 +190,7 @@ Together, these technologies create an **immersive and believable digital world*
 
 Although VR feels like a modern invention, it has existed in various forms for **decades**. Early examples include **360° panoramic paintings**, which surprised audiences by creating a sense of immersion long before digital VR existed.
 
-<img src="https://github.com/user-attachments/assets/4f13c1ca-36ee-47a0-98e1-753987f0adad" width="800"/>
+<img src="https://github.com/user-attachments/assets/4f13c1ca-36ee-47a0-98e1-753987f0adad" width="500"/>
 
 Virtual Reality can be considered the **“wise mind” of the digital world**—it creates an environment that functions independently of the user while still allowing interaction. It offers first-hand experiences of events and scenarios, including their psychological after-effects.
 
