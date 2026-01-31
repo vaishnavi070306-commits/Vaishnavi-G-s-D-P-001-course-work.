@@ -4,7 +4,7 @@
 
 
 
-# ***Task 2: API***
+# **Task 2: API**
 
 For this task, I built a small web app that shows real-time weather for any city using the OpenWeather API. I made it so I can type a city name and click a button to see the temperature, weather conditions, humidity, and wind speed. I also added a feature to refresh the data automatically every five minutes so it stays updated. While working on this, I got hands-on experience with fetching data from an API using JavaScript and displaying it on a webpage. It was interesting to see how quickly I could make the app respond to user input and show live information.  
 
