@@ -54,8 +54,9 @@ I used basic NumPy operations such as reshaping and rotating the matrix to decod
 
  ![Screenshot_6-2-2026_201253_colab research google com](https://github.com/user-attachments/assets/8aed5edb-8ebf-4591-9bf4-23b49c0b779c)
 
-Here's the link to my **Notebook**  
-https://colab.research.google.com/drive/1SZJnb5A0ckT59hNg81caAXgE9uZjXty6
+Here's the link to my 
+
+[Notebook](https://colab.research.google.com/drive/1SZJnb5A0ckT59hNg81caAXgE9uZjXty6)**
 
 # Task 7: Create a Portfolio Webpage
 
