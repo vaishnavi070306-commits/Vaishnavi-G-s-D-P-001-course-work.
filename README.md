@@ -45,18 +45,16 @@ The model was able to capture the trend in the data, and the graph clearly shows
  [my task](https://www.kaggle.com/code/vaishnavi070306/california) 
 
 
- 
-# Task 6: Matrix Puzzle — NumPy & Matplotlib
+ # Task 6: Matrix Puzzle — NumPy & Matplotlib
 
 In this task, I worked with a scrambled matrix using NumPy to understand its structure and orientation. I learned how to load a `.npy` file and check the shape of the array before using it for visualization.
 
 I used basic NumPy operations such as reshaping and rotating the matrix to decode the hidden image. With Matplotlib’s `imshow()` function, I was able to visualize the matrix and reveal the image. This task helped me build confidence in working with NumPy arrays and basic data visualization.
 
- ![Screenshot_6-2-2026_201253_colab research google com](https://github.com/user-attachments/assets/8aed5edb-8ebf-4591-9bf4-23b49c0b779c)
 
-Here's the link to my 
+![Screenshot_6-2-2026_201253_colab research google com](https://github.com/user-attachments/assets/8aed5edb-8ebf-4591-9bf4-23b49c0b779c)
 
-[Notebook](https://colab.research.google.com/drive/1SZJnb5A0ckT59hNg81caAXgE9uZjXty6)**
+Here's the link to my [Notebook](https://colab.research.google.com/drive/1SZJnb5A0ckT59hNg81caAXgE9uZjXty6)
 
 # Task 7: Create a Portfolio Webpage
 
