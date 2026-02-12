@@ -1,5 +1,5 @@
 
-# Task 1: 3D printing
+# Task 1: 3D Printing
 
 I worked on understanding the working of a 3D printer, including the use of STL files and the slicing process using Ultimaker or Creality Slicer. The task involved following standard operating procedures and configuring printer parameters such as bed temperature, nozzle temperature, infill density, and material-related settings for PLA filament. An STL file was obtained from an online source, sliced with appropriate parameters, and prepared for printing using FDM-based 3D printing.
 
