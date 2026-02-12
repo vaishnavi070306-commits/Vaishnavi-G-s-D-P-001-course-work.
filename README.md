@@ -1,5 +1,7 @@
 
+# Task 1: 3D printing
 
+I worked on understanding the working of a 3D printer, including the use of STL files and the slicing process using Ultimaker or Creality Slicer. The task involved following standard operating procedures and configuring printer parameters such as bed temperature, nozzle temperature, infill density, and material-related settings for PLA filament. An STL file was obtained from an online source, sliced with appropriate parameters, and prepared for printing using FDM-based 3D printing.
 
 
 
@@ -61,6 +63,10 @@ Here's the link to my [Notebook](https://colab.research.google.com/drive/1SZJnb5
 For this task, I have created a **portfolio webpage** using **HTML**. The purpose of the webpage is to showcase my profile, interests, projects, and social media profiles in a clean and professional manner. 
 
 <img width="1889" height="909" alt="portfoliophoto pngfile" src="https://github.com/user-attachments/assets/2bf1b6ac-5c68-4f29-9b08-d11f3a78ccdc" />
+
+# Task 8: Tchnical report writing
+
+I have written an article on brain-reading computers focusing on the use of brain–computer interfaces in healthcare. The article explains how brain signals are captured, processed, and used to control robotic and assistive systems. It discusses applications in rehabilitation, prosthetics, and patient support. The completed article has been uploaded to the MARVEL website for reference.
 
 # Task 9: Tinkercad
 
