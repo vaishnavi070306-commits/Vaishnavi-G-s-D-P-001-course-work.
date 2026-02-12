@@ -232,6 +232,7 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 | Awareness of Reality | User is isolated from the real world | User remains aware of the real environment |
 | Technology Complexity | Requires powerful hardware and software | Requires relatively simpler technology |
 | Examples | PlayStation VR, Samsung Gear VR, HTC Vive | Pokémon GO, Google Maps AR, IKEA AR App |
+<br><br>
 
 
 ## Emerging Trends in Virtual Reality and Space Technology
@@ -255,7 +256,7 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 7. **CHRP INDIA**: Focuses on immersive learning technologies and interactive training simulations.  
 8. **PropVR**: Specializes in VR for real estate, allowing for virtual property tours.
 
-
+<br><br>
 
 
 # Task 18: Sad Servers
