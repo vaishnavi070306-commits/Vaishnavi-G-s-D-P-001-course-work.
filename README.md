@@ -13,6 +13,7 @@ For this task, I built a small web app that shows real-time weather for any city
 <img src="https://github.com/user-attachments/assets/28a5bd4c-5bd1-462b-b52f-19bdcb0e2682" width="900"/>
 
  [GitHub repository](https://github.com/vaishnavi070306-commits/wesatherapp)
+ <br><br>
 
 # Task 3: Working with GitHub
 
@@ -21,7 +22,7 @@ In this task, I identified and fixed a small bug in an existing GitHub repositor
 <img src="https://github.com/user-attachments/assets/155a6b74-cf5e-4c5c-b1a0-75f1513f302f" width="1000"/>
 
 **[GitHub](https://github.com/vaishnavi070306-commits/git-task)**.
-
+<br><br>
 # Task 4: Ubuntu Command Line Practice
 
 In this task, I practiced creating multiple directories in Ubuntu. I used loops to generate a large number of folders automatically, which helped me understand how repetitive tasks can be automated and reinforced basic command-line operations for managing and organizing directories efficiently.
@@ -29,25 +30,27 @@ In this task, I practiced creating multiple directories in Ubuntu. I used loops 
 ![WhatsApp Image 2026-01-31 at 8 50 16 PM](https://github.com/user-attachments/assets/b98a20ad-56c9-4929-9618-8701af8a67b6)
 
 
-
+<br><br>
 Another part of the task involved working with text files. I created two files and used the command line to combine and display their contents in the terminal. This exercise helped me get familiar with basic file manipulation and how commands can be used to work with text without relying on a graphical interface.
 
 ![WhatsApp Image 2026-01-31 at 8 43 20 PM (2)](https://github.com/user-attachments/assets/47f25384-7193-4ba3-a091-48d4cfa4ffe7)
+<br><br>
 
 
-# Task 5: Linear Regression from Scratch
+# Task 5: Linear Regression From Scratch
 
-For this activity, I worked with the California Housing dataset and trained a **Linear Regression model** using **gradient descent**. I also compared my results with **scikit-learn's LinearRegression**.  
+For this activity,I worked with the California Housing dataset and trained a **Linear Regression model** using **gradient descent**. I also compared my results with **scikit-learn's LinearRegression**.  
 
-The model was able to capture the trend in the data, and the graph clearly shows how **median income** relates to **house prices**. This activity helped me understand how models learn from data and how easy it is to use libraries like sklearn for comparison.
+The model was able to capture the trend in the data, and the graph clearly shows how **median income** relates to **house prices**. This activity helped me understand how models learn from data and how easy it is to use libraries like scikit-learn for comparison.
 
 ![Screenshot_31-1-2026_195242_colab research google com](https://github.com/user-attachments/assets/cddc2971-df4d-4edf-aca0-1a1261241eae)
 
 
  [my task](https://www.kaggle.com/code/vaishnavi070306/california) 
+ <br><br>
 
 
- # Task 6: Matrix Puzzle — NumPy & Matplotlib
+# Task 6: Matrix Puzzle With NumPy & Matplotlib
 
 In this task, I worked with a scrambled matrix using NumPy to understand its structure and orientation. I learned how to load a `.npy` file and check the shape of the array before using it for visualization.
 
@@ -57,28 +60,35 @@ I used basic NumPy operations such as reshaping and rotating the matrix to decod
 ![Screenshot_6-2-2026_201253_colab research google com](https://github.com/user-attachments/assets/8aed5edb-8ebf-4591-9bf4-23b49c0b779c)
 
 Here's the link to my [Notebook](https://colab.research.google.com/drive/1SZJnb5A0ckT59hNg81caAXgE9uZjXty6)
+<br><br>
 
-# Task 7: Create a Portfolio Webpage
+
+# Task 7: Create A Portfolio Webpage
 
 For this task, I have created a **portfolio webpage** using **HTML**. The purpose of the webpage is to showcase my profile, interests, projects, and social media profiles in a clean and professional manner. 
 
 <img width="1889" height="909" alt="portfoliophoto pngfile" src="https://github.com/user-attachments/assets/2bf1b6ac-5c68-4f29-9b08-d11f3a78ccdc" />
+<br><br>
 
-# Task 8: Tchnical report writing
+
+# Task 8: Technical Report Writing
 
 I have written an article on brain-reading computers focusing on the use of brain–computer interfaces in healthcare. The article explains how brain signals are captured, processed, and used to control robotic and assistive systems. It discusses applications in rehabilitation, prosthetics, and patient support. The completed article has been uploaded to the MARVEL website for reference.
+<br><br>
 
 # Task 9: Tinkercad
 
 In this task, a Tinkercad account was used to explore the simulation environment and example circuits. A circuit with an ultrasonic sensor was simulated to measure the distance between the sensor and an object, and the results were displayed on the serial monitor. The ultrasonic sensor works by sending sound waves and calculating the time taken for the echo to return. A basic radar system was also implemented by attaching a servo motor to the sensor, allowing it to rotate and detect objects over a wider area. This experiment helped in understanding distance measurement, servo control, and how these can be combined for object detection. 
+<br><br>
 
 
 <img src="https://github.com/user-attachments/assets/ee988e03-9436-457f-bcb6-eee59867ea0c" width="800"/>
 
 
-[tinkercad](https://www.tinkercad.com/things/49RVmJZ56W4/editel)
+[Tinkercad](https://www.tinkercad.com/things/49RVmJZ56W4/editel)
+<br><br>
 
-# Task 10: Speed control of DC motor
+# Task 10: Speed Control of DC Motor
 
 A 5V DC motor was controlled using an Arduino UNO and an L298N motor driver to explore basic techniques of motor speed and direction control. The motor speed was varied using PWM signals, and the direction was adjusted through the H-Bridge connections. This experiment provided practical experience in connecting the hardware, configuring the motor driver, and using Arduino programming to control motor behavior effectively. The process helped in understanding the application of PWM and H-Bridge circuits in real-world motor control systems.
 
@@ -90,9 +100,14 @@ The results showed that the motor responded smoothly to changes in PWM signals, 
 
 https://github.com/user-attachments/assets/027620da-2066-4655-9518-beb70d508167
 
+<br><br>
 
+# Task 11: LED Toggle Using ESP32
 
+In this task, I learnt the working of the ESP32 microcontroller and how to create a standalone web server using it. I configured the Arduino IDE to support the ESP32 board and successfully uploaded the program. An LED was interfaced with the ESP32 and controlled through a web-based interface. The web server hosted on the ESP32 allowed the LED to be toggled ON and OFF using a browser. This task helped me understand web-based control using a microcontroller and basic IoT implementation.
 
+![WhatsApp Image 2026-02-12 at 8 05 03 PM](https://github.com/user-attachments/assets/a86bd521-9394-4d05-9a42-418ad1893e8c)
+<br><br>
 
 # Task 12: Soldering Prerequisites
 
@@ -103,12 +118,14 @@ This experiment helped me understand proper handling and usage of soldering tool
 <img src="https://github.com/user-attachments/assets/36945e5e-560f-41c9-8e9b-52f7aedc1443" width="400"/>
 
 <img src="https://github.com/user-attachments/assets/b8202e0d-2ead-4660-8f66-fdaab8603fbd" width="400"/>
+<br><br>
 
-# Task 14: Karnaugh Maps and Deriving The Logic Gate
+# Task 14: Karnaugh Maps And Deriving Logic Gate
 
 In this task, I designed a simple burglar alarm using two inputs: **Door (D)** and **Key (K)**. The alarm turns ON only when the door is open and the key is not pressed. I created a **truth table** for all four cases
 
 <img src="https://github.com/user-attachments/assets/b356f3ff-4c3a-42a0-97ce-97bd0c130d8b" width="450">
+<br><br>
 
 then used a **Karnaugh Map (K-Map)** to simplify the logic. The resulting Boolean expression is **A = D · K̅**  
 
@@ -117,15 +134,17 @@ then used a **Karnaugh Map (K-Map)** to simplify the logic. The resulting Boolea
 I implemented it using a **NOT gate** for the key input and an **AND gate** to drive the buzzer or LED. This exercise helped me understand how K-Maps simplify logic for practical circuits.
 
 <img src="https://github.com/user-attachments/assets/f940d1e7-a827-4ee6-abd0-d37a9db14d7a" width="450">
+<br><br>
 
 
-# Task 16: Data sheet report writing
+# Task 16: Data Sheet Report Writing
 
 The **L293D** is a dual H-bridge motor driver IC commonly used to control **the direction and speed of DC motors**. It allows a microcontroller or logic circuit to drive motors that require higher current than the controller can supply. The IC contains **two full H-bridge circuits**, enabling **independent bidirectional control of two DC motors**.
 
 ## IC Configuration
 
 ![WhatsApp Image 2026-01-17 at 7 00 02 PM](https://github.com/user-attachments/assets/99f52530-2052-4e44-b53a-e1e59bf16c9e)
+<br><br>
 
 - **Package:** 16-pin Dual In-Line Package (DIP)  
 - **Logic Supply (VSS):** 5 V, powers the internal control circuitry  
@@ -182,10 +201,10 @@ An H-bridge is a circuit that allows a motor to be driven **forward or backward*
 - Embedded systems requiring bidirectional motor control  
 - Educational experiments for motor interfacing  
 - Small electric vehicles or conveyor systems
-
+<br><br>
   
 
-# TASK 17: Introduction to VR
+# TASK 17: Introduction To VR
 
 ## What is Virtual Reality?
 
@@ -262,5 +281,6 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 # Task 18: Sad Servers
 
 In this task, I worked on the "Command Line Murders" scenario on SadServers. The objective was to identify the culprit and make the server happy by providing the correct answer. I accessed the virtual server and created a solution file containing the name of the murderer. After saving the file, I submitted it to complete the challenge. This task allowed me to interact with a Linux server environment in a simple way and gave a basic understanding of how solution files can be used to record and submit answers in troubleshooting scenarios.
+<br><br>
 
 <img src="https://github.com/user-attachments/assets/d400122c-bfa7-46f4-8608-7f3b414c9475" width="1000"/>
