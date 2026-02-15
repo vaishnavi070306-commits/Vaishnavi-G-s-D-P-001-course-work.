@@ -1,7 +1,7 @@
 
 # Task 1: 3D Printing
 
-I worked on understanding the working of a 3D printer, including the use of STL files and the slicing process using Ultimaker or Creality Slicer. The task involved following standard operating procedures and configuring printer parameters such as bed temperature, nozzle temperature, infill density, and material-related settings for PLA filament. An STL file was obtained from an online source, sliced with appropriate parameters, and prepared for printing using FDM-based 3D printing.
+I understood the working of a 3D printer, including the use of STL files and the slicing process using Creality Slicer. The task involved following standard operating procedures and configuring printer parameters such as bed temperature, nozzle temperature, infill density, and material-related settings for PLA filament. An STL file was obtained from an online source, sliced with appropriate parameters, and prepared for printing using a suitable 3D printing.
 
 <img width="749" height="470" alt="image" src="https://github.com/user-attachments/assets/e3d61dc4-04ea-4c27-a04f-0c9e7e198b99" />
 
@@ -12,7 +12,7 @@ I worked on understanding the working of a 3D printer, including the use of STL 
 
 # Task 2: API
 
-For this task, I built a small web app that shows real-time weather for any city using the OpenWeather API. I made it so I can type a city name and click a button to see the temperature, weather conditions, humidity, and wind speed. I also added a feature to refresh the data automatically every five minutes so it stays updated. While working on this, I got hands-on experience with fetching data from an API using JavaScript and displaying it on a webpage. It was interesting to see how quickly I could make the app respond to user input and show live information.  
+For this task, I built a small web app that shows real-time weather for any city using the OpenWeather API. I made it so I can type a city name and click a button to see the temperature, weather conditions, humidity, and wind speed. I also added a feature to refresh the data automatically every five minutes so it stays updated working on this, I got made it using html. 
 
 <img src="https://github.com/user-attachments/assets/28a5bd4c-5bd1-462b-b52f-19bdcb0e2682" width="900"/>
 
@@ -21,7 +21,7 @@ For this task, I built a small web app that shows real-time weather for any city
 
 # Task 3: Working with GitHub
 
-In this task, I identified and fixed a small bug in an existing GitHub repository. The issue was present in the `add()` function, where an extra operation caused incorrect output, and I corrected it to ensure the function worked as expected. Through this task, I learned how GitHub workflows operate, including forking a repository, making changes on a separate branch, and creating a pull request to propose updates to the main repository. I also gained hands-on experience with repository management, code review processes, and collaboration using GitHub. 
+In this task, I identified and fixed a small bug in an existing GitHub repository. The issue was present in the `add()` function, where an extra operation caused incorrect output, and I corrected it to ensure the function worked as expected. Through this task, I learnt how GitHub workflows operate, including forking a repository, making changes on a separate branch, and creating a pull request to propose updates to the main repository. I also gained hands-on experience with repository management, code review processes, and collaboration using GitHub. 
 
 <img src="https://github.com/user-attachments/assets/155a6b74-cf5e-4c5c-b1a0-75f1513f302f" width="1000"/>
 
@@ -81,7 +81,7 @@ For this task, I have created a **portfolio webpage** using **HTML**. The purpos
 
 # Task 8: Technical Report Writing
 
-I have written an article on brain-reading computers focusing on the use of brain–computer interfaces in healthcare. The article explains how brain signals are captured, processed, and used to control robotic and assistive systems. It discusses applications in rehabilitation, prosthetics, and patient support. The completed article has been uploaded to the MARVEL website for reference.
+I have written an article on brain-reading computers focusing on the use of brain computer interfaces in healthcare. The article explains how brain signals are captured, processed, and used to control robotic and assistive systems. It discusses applications in rehabilitation, prosthetics, and patient support. The completed article has been uploaded to the MARVEL website for reference.
 <br><br>
 
 # Task 9: Tinkercad
@@ -121,7 +121,7 @@ In this task, I learnt the working of the ESP32 microcontroller and how to creat
 
 # Task 12: Soldering Prerequisites
 
-I studied the soldering equipment available in the laboratory, including the soldering iron, solder wire, flux, and soldering wick, and learned their functions.  
+I studied the soldering equipment available in the marvel lab, including the soldering iron, solder wire, flux and learnt their functions.  
 I practiced basic soldering techniques on a perf board by assembling a simple LED setup under the supervision of a coordinator.  
 This experiment helped me understand proper handling and usage of soldering tools.
 <br><br>
@@ -246,7 +246,7 @@ Although VR feels like a modern invention, it has existed in various forms for *
 <br><br>
 
 
-Virtual Reality can be considered the **“wise mind” of the digital world**—it creates an environment that functions independently of the user while still allowing interaction. It offers first-hand experiences of events and scenarios, including their psychological after-effects.
+Virtual Reality can be considered the **“wise mind” of the digital world** it creates an environment that functions independently of the user while still allowing interaction. It offers first-hand experiences of events and scenarios, including their psychological after effects.
 
 This makes VR a powerful tool for understanding **human perception, cognition, and behavior**.
 
@@ -274,7 +274,7 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 3. Eye-Tracking and Hand-Gesture Controls: Advanced sensors track eye movement and hand gestures, enabling intuitive navigation, realistic avatars, and optimized rendering for smoother performance.
 4. VR in Education and Healthcare: Schools use VR for immersive lessons in science, history, and engineering  
  Hospitals apply VR for pain management, surgical training, and therapy  
-5. Virtual Workspaces:Remote teams collaborate in **3D virtual offices**, conducting meetings, presentations, and co-editing 3D models beyond traditional video calls.
+5. Virtual Workspaces: Remote teams collaborate in **3D virtual offices**, conducting meetings, presentations, and co-editing 3D models beyond traditional video calls.
 6. Teleoperation of Spacecraft and Rovers: VR enables precise teleoperation of spacecraft and robotic rovers, bridging the gap between Earth and space missions.
 7. Designing and Testing Space Equipment: Engineers use VR to design,test, and validate spacecraft components in simulated environments before physical production.
 8. Mission Training and Simulation: Astronauts and engineers train in **risk-free virtual simulations**, preparing for critical space mission operations.
