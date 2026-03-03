@@ -151,8 +151,9 @@ I implemented it using a **NOT gate** for the key input and an **AND gate** to d
 
 # Task  15: Active Participation 
 
-I participated in the bitcoin India Tour session that was held in our college campus,uvce
-I got to learn about the importance of investment of gold in mutual funds 
+I participated in the bitcoin India Tour session that was held in our college campus,uvce.I got to learn about the importance of investment of gold in mutual funds 
+<br><br>
+![WhatsApp Image 2026-02-25 at 10 35 13 PM](https://github.com/user-attachments/assets/5f204806-387d-4a4c-ac10-120d52291085)
 
 <br><br>
 
