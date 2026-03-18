@@ -1,7 +1,7 @@
 
 # Task 1: 3D Printing
 
-I understood the working of a 3D printer, including the use of STL files and the slicing process using Creality Slicer. The task involved following standard operating procedures and configuring printer parameters such as bed temperature, nozzle temperature, infill density, and material-related settings for PLA filament. An STL file was obtained from an online source, sliced with appropriate parameters, and prepared for printing using a suitable 3D printing.
+I understood the working of a 3D printer, including the use of STL files and the slicing process using Creality Slicer. The task involved following standard operating procedures and configuring printer parameters such as bed temperature, nozzle temperature, infill density, and material related settings for PLA filament. An STL file was obtained from an online source, sliced with appropriate parameters, and prepared for printing using a suitable 3D printing.
 
 <img width="749" height="470" alt="image" src="https://github.com/user-attachments/assets/e3d61dc4-04ea-4c27-a04f-0c9e7e198b99" />
 
