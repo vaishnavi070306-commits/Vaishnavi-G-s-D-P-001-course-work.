@@ -118,6 +118,7 @@ In this task, I learnt the working of the ESP32 microcontroller and how to creat
 <br><br>
 
 <img src="https://github.com/user-attachments/assets/a86bd521-9394-4d05-9a42-418ad1893e8c" width="400"/>
+<img src="https://github.com/user-attachments/assets/a86bd521-9394-4d05-9a42-418ad1893e8c" width="400"?>
 <br><br>
 
 # Task 12: Soldering Prerequisites
@@ -128,6 +129,7 @@ This experiment helped me understand proper handling and usage of soldering tool
 <br><br>
 
 <img src="https://github.com/user-attachments/assets/36945e5e-560f-41c9-8e9b-52f7aedc1443" width="400"/>
+
 
 <br><br>
 
