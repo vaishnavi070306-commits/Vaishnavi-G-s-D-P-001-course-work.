@@ -64,7 +64,8 @@ In this task, I worked with a scrambled matrix using NumPy to understand its str
 I used basic NumPy operations such as reshaping and rotating the matrix to decode the hidden image. With Matplotlib’s `imshow()` function, I was able to visualize the matrix and reveal the image. This task helped me build confidence in working with NumPy arrays and basic data visualization.
 
 <br><br>
-![Screenshot_6-2-2026_201253_colab research google com](https://github.com/user-attachments/assets/8aed5edb-8ebf-4591-9bf4-23b49c0b779c)
+![Screenshot_22-3-2026_175145_colab research google com](https://github.com/user-attachments/assets/37ea1db3-742b-4d66-96dc-744272b09915)
+
 
 Here's the link to my [Notebook](https://colab.research.google.com/drive/1SZJnb5A0ckT59hNg81caAXgE9uZjXty6)
 <br><br>
