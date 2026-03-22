@@ -129,7 +129,6 @@ This experiment helped me understand proper handling and usage of soldering tool
 
 <img src="https://github.com/user-attachments/assets/36945e5e-560f-41c9-8e9b-52f7aedc1443" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/b8202e0d-2ead-4660-8f66-fdaab8603fbd" width="400"/>
 <br><br>
 
 # Task 13: 555 AC astable multivibrator with 60% duty cycle
