@@ -142,7 +142,7 @@ This experiment helped me understand proper handling and usage of soldering tool
 
  
  
-After completing the setup, I connected the Digital Storage Oscilloscope (DSO) probe to the output and ground. Upon powering the circuit, I observed a continuous square wave on the DSO. The waveform showed that the HIGH duration was slightly longer than the LOW duration, indicating a duty cycle close to 60%. The output was stable and periodic, confirming proper operation of the circuit, with minor variations attributed to component tolerances.
+ I designed a 555 timer in astable mode to achieve a duty cycle of 60% by selecting suitable resistor and capacitor values. Using the duty cycle formula, I determined the ratio of resistors and chose standard values of R1 = 5kΩ and R2 = 10kΩ along with a capacitor of 0.01µF. I then assembled the circuit on a breadboard by connecting pins 2 and 6 together, placing R1 between Vcc and pin 7, and R2 between pin 7 and pins 2 and 6, and connecting the capacitor between pins 2/6 and ground. Pin 1 was connected to ground and pin 8 to a 5V supply, with the output taken from pin 3. 
 
 # Task 14: Karnaugh Maps And Deriving Logic Gate
 
