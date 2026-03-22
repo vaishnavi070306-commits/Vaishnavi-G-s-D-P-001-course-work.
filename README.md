@@ -8,7 +8,7 @@ I understood the working of a 3D printer, including the use of STL files and the
 
 ![WhatsApp Image 2026-02-13 at 8 19 01 PM](https://github.com/user-attachments/assets/f04cd03e-2671-4754-9779-dd4dac52c0f4)
 
-<br><br>
+
 
 # Task 2: API
 
@@ -17,7 +17,6 @@ For this task, I built a small web app that shows real-time weather for any city
 <img src="https://github.com/user-attachments/assets/28a5bd4c-5bd1-462b-b52f-19bdcb0e2682" width="900"/>
 
 [GitHub repository](https://github.com/vaishnavi070306-commits/wesatherapp)
- <br><br>
 
 # Task 3: Working with GitHub
 
@@ -26,7 +25,7 @@ In this task, I identified and fixed a small bug in an existing GitHub repositor
 <img src="https://github.com/user-attachments/assets/155a6b74-cf5e-4c5c-b1a0-75f1513f302f" width="1000"/>
 
 **[GitHub](https://github.com/vaishnavi070306-commits/git-task)**
-<br><br>
+
 
 
 # Task 4: Ubuntu Command Line Practice
@@ -37,11 +36,11 @@ In this task, I practiced creating multiple directories in Ubuntu. I used loops 
 ![WhatsApp Image 2026-01-31 at 8 50 16 PM](https://github.com/user-attachments/assets/b98a20ad-56c9-4929-9618-8701af8a67b6)
 
 
-<br><br>
+
 Another part of the task involved working with text files. I created two files and used the command line to combine and display their contents in the terminal. This exercise helped me get familiar with basic file manipulation and how commands can be used to work with text without relying on a graphical interface.
 
 ![WhatsApp Image 2026-01-31 at 8 43 20 PM (2)](https://github.com/user-attachments/assets/47f25384-7193-4ba3-a091-48d4cfa4ffe7)
-<br><br>
+
 
 
 # Task 5: Linear Regression From Scratch
@@ -49,12 +48,12 @@ Another part of the task involved working with text files. I created two files a
 For this activity,I worked with the California Housing dataset and trained a **Linear Regression model** using **gradient descent**. I also compared my results with **scikit-learn's LinearRegression**.  
 
 The model was able to capture the trend in the data, and the graph clearly shows how **median income** relates to **house prices**. This activity helped me understand how models learn from data and how easy it is to use libraries like scikit-learn for comparison.
-<br><br>
+
 ![Screenshot_31-1-2026_195242_colab research google com](https://github.com/user-attachments/assets/cddc2971-df4d-4edf-aca0-1a1261241eae)
 
 
  [my task](https://www.kaggle.com/code/vaishnavi070306/california) 
- <br><br>
+
 
 
 # Task 6: Matrix Puzzle With NumPy & Matplotlib
@@ -63,12 +62,12 @@ In this task, I worked with a scrambled matrix using NumPy to understand its str
 
 I used basic NumPy operations such as reshaping and rotating the matrix to decode the hidden image. With Matplotlib’s `imshow()` function, I was able to visualize the matrix and reveal the image. This task helped me build confidence in working with NumPy arrays and basic data visualization.
 
-<br><br>
+
 ![Screenshot_22-3-2026_175145_colab research google com](https://github.com/user-attachments/assets/37ea1db3-742b-4d66-96dc-744272b09915)
 
 
 Here's the link to my [Notebook](https://colab.research.google.com/drive/1SZJnb5A0ckT59hNg81caAXgE9uZjXty6)
-<br><br>
+
 
 
 # Task 7: Create A Portfolio Webpage
@@ -77,48 +76,48 @@ Here's the link to my [Notebook](https://colab.research.google.com/drive/1SZJnb5
 For this task, I have created a **portfolio webpage** using **HTML**. The purpose of the webpage is to showcase my profile, interests, projects, and social media profiles in a clean and professional manner. 
 
 <img width="1889" height="909" alt="portfoliophoto pngfile" src="https://github.com/user-attachments/assets/2bf1b6ac-5c68-4f29-9b08-d11f3a78ccdc" />
-<br><br>
+
 
 
 # Task 8: Technical Report Writing
 
 I have written an article on brain-reading computers focusing on the use of brain computer interfaces in healthcare. The article explains how brain signals are captured, processed, and used to control robotic and assistive systems. It discusses applications in rehabilitation, prosthetics, and patient support. The completed article has been uploaded to the MARVEL website for reference.
-<br><br>
+
 
 # Task 9: Tinkercad
 
 In this task, a Tinkercad account was used to explore the simulation environment and example circuits. A circuit with an ultrasonic sensor was simulated to measure the distance between the sensor and an object, and the results were displayed on the serial monitor. The ultrasonic sensor works by sending sound waves and calculating the time taken for the echo to return. A basic radar system was also implemented by attaching a servo motor to the sensor, allowing it to rotate and detect objects over a wider area. This experiment helped in understanding distance measurement, servo control, and how these can be combined for object detection. 
-<br><br>
+
 
 
 <img src="https://github.com/user-attachments/assets/ee988e03-9436-457f-bcb6-eee59867ea0c" width="800"/>
 
 
 [Tinkercad](https://www.tinkercad.com/things/49RVmJZ56W4/editel)
-<br><br>
+
 
 # Task 10: Speed Control of DC Motor
 
-A 5V DC motor was controlled using an Arduino UNO and an L298N motor driver to explore basic techniques of motor speed and direction control. The motor speed was varied using PWM signals, and the direction was adjusted through the H-Bridge connections. This experiment provided practical experience in connecting the hardware, configuring the motor driver, and using Arduino programming to control motor behavior effectively. The process helped in understanding the application of PWM and H-Bridge circuits in real-world motor control systems.
-<br><br>
+
+
 
 <img src="https://github.com/user-attachments/assets/4b69214b-91f5-4746-856c-899ac45919bf" width="500"/>
 
-The results showed that the motor responded smoothly to changes in PWM signals, allowing precise control over its speed. Forward and reverse motion was achieved reliably by switching the H-Bridge input pins, and the motor maintained stable operation across different speed settings. Recording the experiment confirmed that the setup worked as intended and demonstrated the practical effectiveness of using Arduino and L298N driver for DC motor control.
+A 5V DC motor was controlled using an Arduino UNO and L298N driver to demonstrate speed and direction control. PWM signals adjusted speed, while the H-Bridge enabled forward and reverse motion. The motor responded smoothly and operated reliably, confirming effective motor control using this setup.
 
 
 
 https://github.com/user-attachments/assets/027620da-2066-4655-9518-beb70d508167
 
-<br><br>
+
 
 # Task 11: LED Toggle Using ESP32
 
 In this task, I learnt the working of the ESP32 microcontroller and how to create a standalone web server using it. I configured the Arduino IDE to support the ESP32 board and successfully uploaded the program. An LED was interfaced with the ESP32 and controlled through a web-based interface. The web server hosted on the ESP32 allowed the LED to be toggled ON and OFF using a browser. This task helped me understand web-based control using a microcontroller and basic IoT implementation.
-<br><br>
+
 
 <img src="https://github.com/user-attachments/assets/a86bd521-9394-4d05-9a42-418ad1893e8c" width="400"/>
-<br><br>
+
 
 # Task 12: Soldering Prerequisites
 
@@ -132,7 +131,7 @@ This experiment helped me understand proper handling and usage of soldering tool
 
 
 
-<br><br>
+
 
 # Task 13: 555 AC astable multivibrator with 60% duty cycle
 
@@ -140,7 +139,7 @@ This experiment helped me understand proper handling and usage of soldering tool
  <br><br>
 
 <img src="https://github.com/user-attachments/assets/2034c895-2ac6-4b36-96ef-d5f80d25dedc" width="400">
-<br><br>
+
  
  
 After completing the setup, I connected the Digital Storage Oscilloscope (DSO) probe to the output and ground. Upon powering the circuit, I observed a continuous square wave on the DSO. The waveform showed that the HIGH duration was slightly longer than the LOW duration, indicating a duty cycle close to 60%. The output was stable and periodic, confirming proper operation of the circuit, with minor variations attributed to component tolerances.
@@ -148,10 +147,10 @@ After completing the setup, I connected the Digital Storage Oscilloscope (DSO) p
 # Task 14: Karnaugh Maps And Deriving Logic Gate
 
 In this task, I designed a simple burglar alarm using two inputs: **Door (D)** and **Key (K)**. The alarm turns ON only when the door is open and the key is not pressed. I created a **truth table** for all four cases
-<br><br>
+
 
 <img src="https://github.com/user-attachments/assets/b356f3ff-4c3a-42a0-97ce-97bd0c130d8b" width="450">
-<br><br>
+
 
 then used a **Karnaugh Map (K-Map)** to simplify the logic. The resulting Boolean expression is **A = D · K̅**  
 
@@ -160,7 +159,7 @@ then used a **Karnaugh Map (K-Map)** to simplify the logic. The resulting Boolea
 I implemented it using a **NOT gate** for the key input and an **AND gate** to drive the buzzer or LED. This exercise helped me understand how K-Maps simplify logic for practical circuits.
 
 <img src="https://github.com/user-attachments/assets/f940d1e7-a827-4ee6-abd0-d37a9db14d7a" width="450">
-<br><br>
+
 
 # Task  15: Active Participation 
 
@@ -168,7 +167,7 @@ I participated in the bitcoin India Tour session that was held in our college ca
 <br><br>
 ![WhatsApp Image 2026-02-25 at 10 35 13 PM](https://github.com/user-attachments/assets/5f204806-387d-4a4c-ac10-120d52291085)
 
-<br><br>
+
 
 
 
@@ -177,10 +176,10 @@ I participated in the bitcoin India Tour session that was held in our college ca
 The **L293D** is a dual H-bridge motor driver IC commonly used to control **the direction and speed of DC motors**. It allows a microcontroller or logic circuit to drive motors that require higher current than the controller can supply. The IC contains **two full H-bridge circuits**, enabling **independent bidirectional control of two DC motors**.
 
 ## IC Configuration
-<br><br>
+
 
 ![WhatsApp Image 2026-01-17 at 7 00 02 PM](https://github.com/user-attachments/assets/99f52530-2052-4e44-b53a-e1e59bf16c9e)
-<br><br>
+
 
 
 | Pin / Group        | Description |
@@ -268,7 +267,7 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 ## Difference Between Virtual Reality (VR) and Augmented Reality (AR)
 
 <img src="https://github.com/user-attachments/assets/cbe751db-f4ef-47e9-909d-bdaa2d8b58c6" width="450">
-<br><br>
+
 
 
 
@@ -280,7 +279,7 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 | Awareness of Reality | User is isolated from the real world | User remains aware of the real environment |
 | Technology Complexity | Requires powerful hardware and software | Requires relatively simpler technology |
 | Examples | PlayStation VR, Samsung Gear VR, HTC Vive | Pokémon GO, Google Maps AR, IKEA AR App |
-<br><br>
+
 
 
 ## Emerging Trends in Virtual Reality and Space Technology
@@ -290,26 +289,12 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 4. VR in Education and Healthcare: Schools use VR for immersive lessons in science, history, and engineering  
  Hospitals apply VR for pain management, surgical training, and therapy  
 5. Virtual Workspaces: Remote teams collaborate in **3D virtual offices**, conducting meetings, presentations, and co-editing 3D models beyond traditional video calls.
-6. Teleoperation of Spacecraft and Rovers: VR enables precise teleoperation of spacecraft and robotic rovers, bridging the gap between Earth and space missions.
-7. Designing and Testing Space Equipment: Engineers use VR to design,test, and validate spacecraft components in simulated environments before physical production.
-8. Mission Training and Simulation: Astronauts and engineers train in **risk-free virtual simulations**, preparing for critical space mission operations.
 
 ## Top Virtual Reality Companies in India
 1. **AjnaLens**: Specializes in mixed reality headsets and software for defense, education, and industrial training.  
 2. **Simbott**: Known for industrial VR solutions, including high-quality welding and spray painting simulators.  
 3. **Fusion VR**: Offers Industry 4.0 solutions, specializing in VR training simulations and digital twin technology.  
-4. **AutoVRse**: Focuses on enterprise VR, creating high-end, interactive experiences and simulations.  
-5. **Quytech**: Develops custom VR applications for various industries, including gaming and healthcare.  
-6. **Next Big Technology (NBT)**: Provides customized AR/VR development services.  
-7. **CHRP INDIA**: Focuses on immersive learning technologies and interactive training simulations.  
-8. **PropVR**: Specializes in VR for real estate, allowing for virtual property tours.
 
-<br><br>
-# Task 18: Sad Servers
 
-In this task, I worked on the "Command Line Murders" scenario on SadServers. The objective was to identify the culprit and make the server happy by providing the correct answer. I accessed the virtual server and created a solution file containing the name of the murderer. After saving the file, I submitted it to complete the challenge. This task allowed me to interact with a Linux server environment in a simple way and gave a basic understanding of how solution files can be used to record and submit answers in troubleshooting scenarios.
-<br><br>
-
-<img src="https://github.com/user-attachments/assets/d400122c-bfa7-46f4-8608-7f3b414c9475" width="1000"/>
 
 
