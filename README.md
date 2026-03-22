@@ -117,7 +117,7 @@ https://github.com/user-attachments/assets/027620da-2066-4655-9518-beb70d508167
 In this task, I learnt the working of the ESP32 microcontroller and how to create a standalone web server using it. I configured the Arduino IDE to support the ESP32 board and successfully uploaded the program. An LED was interfaced with the ESP32 and controlled through a web-based interface. The web server hosted on the ESP32 allowed the LED to be toggled ON and OFF using a browser. This task helped me understand web-based control using a microcontroller and basic IoT implementation.
 <br><br>
 
-![WhatsApp Image 2026-02-12 at 8 05 03 PM](https://github.com/user-attachments/assets/a86bd521-9394-4d05-9a42-418ad1893e8c)
+<img src="https://github.com/user-attachments/assets/a86bd521-9394-4d05-9a42-418ad1893e8c" width="400"/>
 <br><br>
 
 # Task 12: Soldering Prerequisites
@@ -137,7 +137,7 @@ This experiment helped me understand proper handling and usage of soldering tool
  I designed a 555 timer in astable mode to achieve a duty cycle of 60% by selecting suitable resistor and capacitor values. Using the duty cycle formula, I determined the ratio of resistors and chose standard values of R1 = 5kΩ and R2 = 10kΩ along with a capacitor of 0.01µF. I then assembled the circuit on a breadboard by connecting pins 2 and 6 together, placing R1 between Vcc and pin 7, and R2 between pin 7 and pins 2 and 6, and connecting the capacitor between pins 2/6 and ground. Pin 1 was connected to ground and pin 8 to a 5V supply, with the output taken from pin 3. 
  <br><br>
 
-<img src="https://github.com/user-attachments/assets/2034c895-2ac6-4b36-96ef-d5f80d25dedc" width="500">
+<img src="https://github.com/user-attachments/assets/2034c895-2ac6-4b36-96ef-d5f80d25dedc" width="400">
 <br><br>
  
  
