@@ -128,7 +128,7 @@ This experiment helped me understand proper handling and usage of soldering tool
 <br><br>
 
 <img src="https://github.com/user-attachments/assets/36945e5e-560f-41c9-8e9b-52f7aedc1443" width="400"/>
-<img src="https://github.com/user-attachments/assets/e565f1ba-a409-43b7-a5f3-199e9287d69f" width="500"/>
+<img src="https://github.com/user-attachments/assets/e565f1ba-a409-43b7-a5f3-199e9287d69f" width="300"/>
 
 
 
