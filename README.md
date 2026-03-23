@@ -293,8 +293,14 @@ This makes VR a powerful tool for understanding **human perception, cognition, a
 ## Top Virtual Reality Companies in India
 1. **AjnaLens**: Specializes in mixed reality headsets and software for defense, education, and industrial training.  
 2. **Simbott**: Known for industrial VR solutions, including high-quality welding and spray painting simulators.  
-3. **Fusion VR**: Offers Industry 4.0 solutions, specializing in VR training simulations and digital twin technology.  
+3. **Fusion VR**: Offers Industry 4.0 solutions, specializing in VR training simulations and digital twin technology.
+   
 
+# Task 18: Sad Servers
 
+In this task, I worked on the "Command Line Murders" scenario on SadServers. The objective was to identify the culprit and make the server happy by providing the correct answer. I accessed the virtual server and created a solution file containing the name of the murderer. After saving the file, I submitted it to complete the challenge. This task allowed me to interact with a Linux server environment in a simple way and gave a basic understanding of how solution files can be used to record and submit answers in troubleshooting scenarios.
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/d400122c-bfa7-46f4-8608-7f3b414c9475" width="1000"/>
 
 
